@@ -1,7 +1,7 @@
 # Hi, I'm Hananiah Shadrach Daniel 👋
 
 ```
-MSc Process Engineering · HAW Hamburg  |  Pharmaceutical Technology · Anna University
+MSc Process Engineering · HAW Hamburg  | B.Tech Pharmaceutical Technology · Anna University
 Process Simulation · CFD · Chemical processes · Data Analytics · Automation
 ```
 
