@@ -2,7 +2,7 @@
 
 ```
 MSc Process Engineering · HAW Hamburg  | B.Tech Pharmaceutical Technology · Anna University
-Process Simulation · CFD · Chemical processes · Data Analytics · Automation
+AI & ML enthusiast · Process Simulation · CFD · Chemical processes · Data Analytics · Automation
 ```
 
 ---
