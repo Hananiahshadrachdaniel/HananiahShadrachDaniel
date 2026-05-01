@@ -19,7 +19,7 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
 
-**Core Competencies**
+**Core Competencies:**
 
 **Engineering & Simulation:** Proficient in process modeling, bioreactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
 
