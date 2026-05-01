@@ -22,12 +22,12 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 
 ### 🤖 AI & Machine Learning
 
-🔹 **Machine Learning**
+🔹 **Machine Learning:**
 Supervised learning: k-Nearest Neighbors (k-NN), Linear & Logistic Regression, Decision Trees, Random Forests;
 Unsupervised learning: K-Means, PCA, Dimensionality Reduction;
 Model evaluation: Train/test splits, cross-validation, accuracy, F1-score;
 
-🔹 **Python ML Stack**
+🔹 **Python ML Stack:**
 NumPy – numerical computing;
 Pandas – data wrangling;
 Matplotlib / Plotly – visualization;
@@ -35,8 +35,8 @@ Scikit-Learn – ML models (k-NN, SVM, clustering, pipelines);
 SciPy – optimization, regression, curve fitting;
 StatsModels – statistical modeling;
 
-🔹 **AI in Engineering & Process Systems**
-Prompt creation in GPT;
+🔹 **AI in Engineering & Process Systems:**
+Prompt-generation in GPT;
 ML-based soft sensors;
 Predictive modeling for reactors & bioprocesses;
 Data-driven control tuning (PID optimization);
