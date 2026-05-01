@@ -36,6 +36,7 @@ SciPy – optimization, regression, curve fitting;
 StatsModels – statistical modeling;
 
 🔹 **AI in Engineering & Process Systems**
+Prompt creation in GPT;
 ML-based soft sensors;
 Predictive modeling for reactors & bioprocesses;
 Data-driven control tuning (PID optimization);
