@@ -19,7 +19,7 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
 
-### 🤖 AI & Machine Learning – Core Competencies
+### 🤖 AI & Machine Learning
 
 🔹 **Machine Learning**
 Supervised learning: k-Nearest Neighbors (k-NN), Linear & Logistic Regression, Decision Trees, Random Forests
