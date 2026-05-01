@@ -90,8 +90,8 @@ Regression models for CFD/CRE surrogate predictions
 
 | # | Project | Tools |
 |---|---------|-------|
-| 01 | ![**CFD Analysis of Counter-Current Heat Exchanger**](https://www.linkedin.com/posts/hananiah-shadrach-daniel_counter-current-heat-exchanger-cfd-analysis-ugcPost-7446934056660910080-2bay?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn9Ea0BflKfOfMaXH7vYgJrUWcAN-TGV3E),(CHT, structured mesh, <1.5% deviation)       | STAR-CCM+, CFD, Turbulence Modeling |
-| 02 | ![**Ammonia Synthesis Simulation & MATLAB Modeling**](https://www.linkedin.com/posts/hananiah-shadrach-daniel_ammonia-synthesis-loop-process-optimization-ugcPost-7446895312293580800-1HV1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn9Ea0BflKfOfMaXH7vYgJrUWcAN-TGV3E) (Equilibrium + PFR + multi-bed converter)     | MATLAB, DWSIM                       |
+| 01 | **CFD Analysis of Counter-Current Heat Exchanger**,(CHT, structured mesh, <1.5% deviation)       | STAR-CCM+, CFD, Turbulence Modeling |
+| 02 | **Ammonia Synthesis Simulation & MATLAB Modeling** (Equilibrium + PFR + multi-bed converter)     | MATLAB, DWSIM                       |
 | 03 | **Cost & Time Estimation & Project Management** (CBS, WBS, CPM, PERT, Monte Carlo, EVM)          | CPM, PERT, Monte Carlo Analysis, Gantt Chart, Risk Analysis            |
 | 04 | **Cost Engineering: Hydrogen via Ammonia Cracking** (CAPEX/OPEX, LCOH analysis)                  | Excel, Cost Engineering             |
 | 05 | **Lactic Acid Recovery & Purification – Process Design** (PFD, P&ID, control loops, pump sizing) | PFD, P&ID, Process Control, Pumping & Heating Tank Calculations          |
