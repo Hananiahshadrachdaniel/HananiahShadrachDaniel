@@ -70,10 +70,10 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 |---|---------|-------|
 | 01 | **CFD Analysis of Counter-Current Heat Exchanger** (CHT, structured mesh, <1.5% deviation)       | STAR-CCM+, CFD, Turbulence Modeling |
 | 02 | **Ammonia Synthesis Simulation & MATLAB Modeling** (Equilibrium + PFR + multi-bed converter)     | MATLAB, DWSIM                       |
-| 03 | **Cost & Time Estimation & Project Management** (CBS, WBS, CPM, PERT, Monte Carlo, EVM)          | CPM, PERT, Risk Analysis            |
+| 03 | **Cost & Time Estimation & Project Management** (CBS, WBS, CPM, PERT, Monte Carlo, EVM)          | CPM, PERT, Monte Carlo Analysis, Gantt Chart, Risk Analysis            |
 | 04 | **Cost Engineering: Hydrogen via Ammonia Cracking** (CAPEX/OPEX, LCOH analysis)                  | Excel, Cost Engineering             |
-| 05 | **Lactic Acid Recovery & Purification – Process Design** (PFD, P&ID, control loops, pump sizing) | PFD, P&ID, Process Control          |
-| 06 | **Cellulose Extraction & HPMC Conversion (IIT Madras)** (Process simulation & optimization)      | Aspen Plus, Bioprocess              |
+| 05 | **Lactic Acid Recovery & Purification – Process Design** (PFD, P&ID, control loops, pump sizing) | PFD, P&ID, Process Control, Pumping & Heating Tank Calculations          |
+| 06 | **Cellulose Extraction & HPMC Conversion (IIT Madras)** (Process simulation & optimization)      | Aspen Plus, Bioprocess system, PowerBI, Powerpoint             |
 | 07 | **Modelling of Chemical Process & Control Systems** (Numerical methods, ODEs, CRE problems, optimization)           | Python, MATLAB                      |
 | 08 | **H₂O₂ Batch Reactor Design** (Kinetics, Excel modeling, batch simulation)                       | Python, MATLAB, Excel, Reaction Engineering         |
 | 09 | **Digital Plant Design** (Arduino + Raspberry Pi automation, sensors, actuators, data logging)   | Arduino, Raspberry Pi               |
