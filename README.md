@@ -17,7 +17,7 @@ I combine engineering fundamentals with digital tools — from Aspen Plus simula
 - 🏭 Project Trainee at **IIT Madras** · Intern at **Kausikh Therapeutics** · Intern at **Teyro Labs**
 - 🌍 Based in **Hamburg, Germany** · Available 16–20 hrs/week · Immediately
 - 📫 [shadrach2702@gmail.com](mailto:shadrach2702@gmail.com)
-- 🌐 **[Portfolio Website](https://yourusername.github.io)**
+- 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
 
 ---
