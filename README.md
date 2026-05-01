@@ -31,7 +31,7 @@ I combine engineering fundamentals with digital tools — from Aspen Plus simula
 ![STAR-CCM+](https://img.shields.io/badge/STAR--CCM+-CC0000?style=flat-square)
 ![ANSYS Fluent](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square&logoColor=000)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
-![Autodesk Inventor](https://www.freelogovectors.net/autodesk-inventor-logo-01/)
+![Autodesk Inventor](https://img.shields.io/badge/-Autodesk-000000?style=flat&logo=autodesk&logoColor=white)
 
 **Programming**
 
