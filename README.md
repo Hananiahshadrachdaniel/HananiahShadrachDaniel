@@ -9,8 +9,7 @@ Process Simulation · CFD · Bioprocesses · Data Analytics · Automation
 
 ### 🔬 About Me
 
-Process engineer with a pharmaceutical engineering background, currently pursuing my MSc at HAW Hamburg.
-I combine engineering fundamentals with digital tools — from Aspen Plus simulations and bioreactor kinetics to Power BI dashboards and Raspberry Pi automation rigs.
+Highly analytical Process Engineer, currently specializing in Process Engineering (MSc) at HAW Hamburg. Expert at bridging the gap between core engineering principles and digital transformation, leveraging simulation tools, data analytics, and automation to optimize technical systems.
 
 - 🎓 **MSc Process Engineering** — HAW Hamburg (GPA: 2.0)
 - 🎓 **B.Tech Pharmaceutical Technology** — Anna University, First Class with Distinction (GPA: 1.6)
@@ -19,6 +18,18 @@ I combine engineering fundamentals with digital tools — from Aspen Plus simula
 - 📫 [shadrach2702@gmail.com](mailto:shadrach2702@gmail.com)
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
+
+**Core Competencies**
+
+**Engineering & Simulation:** Proficient in process modeling, bioreactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
+
+**Data Analytics & Digitalization:** Expertise in transforming raw technical data into actionable insights via Power BI dashboards, KPI reporting, and Python-based analysis.
+
+**Project Management & Documentation:** Experienced in structured reporting, SharePoint administration, and agile workflows (Jira/Confluence). Strong focus on version control and technical documentation.
+
+**Quality & Compliance:** Solid understanding of ISO 9001, 14001, and 45001 standards, including root-cause analysis and standardized process monitoring.
+
+**Operational Excellence:** Competent in plant monitoring, troubleshooting, and the integration of automation rigs (e.g., Raspberry Pi) into laboratory or industrial environments.
 
 ---
 
