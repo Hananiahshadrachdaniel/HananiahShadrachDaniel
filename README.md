@@ -19,6 +19,28 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
 
+### 🤖 AI & Machine Learning – Core Competencies
+
+🔹 **Machine Learning**
+Supervised learning: k-Nearest Neighbors (k-NN), Linear & Logistic Regression, Decision Trees, Random Forests
+Unsupervised learning: K-Means, PCA, Dimensionality Reduction
+Model evaluation: Train/test splits, cross-validation, accuracy, F1-score
+
+🔹 **Python ML Stack**
+NumPy – numerical computing
+Pandas – data wrangling
+Matplotlib / Plotly – visualization
+Scikit-Learn – ML models (k-NN, SVM, clustering, pipelines)
+SciPy – optimization, regression, curve fitting
+StatsModels – statistical modeling
+
+🔹 **AI in Engineering & Process Systems**
+ML-based soft sensors
+Predictive modeling for reactors & bioprocesses
+Data-driven control tuning (PID optimization)
+Outlier detection for plant data
+Regression models for CFD/CRE surrogate predictions
+
 ### ⚙️ Core Competencies
 
 **Engineering & Simulation:** Proficient in process modeling, reactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
