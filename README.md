@@ -15,7 +15,7 @@ I combine engineering fundamentals with digital tools — from Aspen Plus simula
 - 🎓 **MSc Process Engineering** — HAW Hamburg (GPA: 2.0)
 - 🎓 **B.Tech Pharmaceutical Technology** — Anna University, First Class with Distinction (GPA: 1.6)
 - 🏭 Project Trainee at **IIT Madras** · Intern at **Kausikh Therapeutics** · Intern at **Teyro Labs**
-- 🌍 Based in **Hamburg, Germany** · Available 16–20 hrs/week · Immediately
+- 🌍 Based in **Hamburg, Germany** · Available for Full-Time & Part-Time (20 Hrs/week) · Immediately
 - 📫 [shadrach2702@gmail.com](mailto:shadrach2702@gmail.com)
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
@@ -31,6 +31,7 @@ I combine engineering fundamentals with digital tools — from Aspen Plus simula
 ![STAR-CCM+](https://img.shields.io/badge/STAR--CCM+-CC0000?style=flat-square)
 ![ANSYS Fluent](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square&logoColor=000)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
+![Autodesk Inventor](https://www.freelogovectors.net/autodesk-inventor-logo-01/)
 
 **Programming**
 
