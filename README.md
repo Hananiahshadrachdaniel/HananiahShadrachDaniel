@@ -18,6 +18,7 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 - 📫 [shadrach2702@gmail.com](mailto:shadrach2702@gmail.com)
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
+- 📂 Full project portfolio: [**Google Drive**](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv?usp=sharing)
 
 ### 🤖 AI & Machine Learning
 
@@ -102,7 +103,6 @@ Regression models for CFD/CRE surrogate predictions
 | 10 | **Optical Sensor Color Detection System** (Green vs white glass shard detection)                 | Python, Sensors, DOEs               |
 
 
-📂 Full project portfolio: [Google Drive](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv?usp=sharing)
 
 ---
 
