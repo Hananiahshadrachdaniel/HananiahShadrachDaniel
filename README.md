@@ -47,7 +47,7 @@ Regression models for CFD/CRE surrogate predictions;
 
 **Engineering & Simulation:** Proficient in process modeling, reactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
 
-**Data Analytics & Digitalization:** Expertise in transforming raw technical data into actionable insights via Power BI dashboards, KPI reporting, and Python-based analysis.
+**Data Analytics & Digitalization:** Expertise in transforming raw technical data into actionable insights via Power BI dashboards, KPI reporting, and Python-based (VBC) analysis.
 
 **Project Management & Documentation:** Experienced in structured reporting, SharePoint administration, and agile workflows (Jira/Confluence). Strong focus on version control and technical documentation.
 
@@ -73,6 +73,7 @@ Regression models for CFD/CRE surrogate predictions;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Visual Basic Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 **Data & BI**
 
