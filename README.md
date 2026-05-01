@@ -2,7 +2,7 @@
 
 ```
 MSc Process Engineering · HAW Hamburg  |  Pharmaceutical Technology · Anna University
-Process Simulation · CFD · Bioprocesses · Data Analytics · Automation
+Process Simulation · CFD · Chemical processes · Data Analytics · Automation
 ```
 
 ---
@@ -19,9 +19,9 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 - 🌐 **[Portfolio Website](https://HananiahShadrachDaniel.github.io)**
 - 💼 [LinkedIn](https://linkedin.com/in/hananiah-shadrach-daniel)
 
-**Core Competencies:**
+### ⚙️ Core Competencies
 
-**Engineering & Simulation:** Proficient in process modeling, bioreactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
+**Engineering & Simulation:** Proficient in process modeling, reactor kinetics, and thermal/mechanical process engineering. Skilled in creating digital twins and flow simulations.
 
 **Data Analytics & Digitalization:** Expertise in transforming raw technical data into actionable insights via Power BI dashboards, KPI reporting, and Python-based analysis.
 
@@ -29,7 +29,7 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 
 **Quality & Compliance:** Solid understanding of ISO 9001, 14001, and 45001 standards, including root-cause analysis and standardized process monitoring.
 
-**Operational Excellence:** Competent in plant monitoring, troubleshooting, and the integration of automation rigs (e.g., Raspberry Pi) into laboratory or industrial environments.
+**Operational Excellence:** Competent in plant monitoring, troubleshooting, and the integration of automation rigs (e.g., Arudino ,Raspberry Pi) into laboratory or industrial environments.
 
 ---
 
@@ -68,14 +68,17 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 
 | # | Project | Tools |
 |---|---------|-------|
-| 01 | [Extraction Process Simulation](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv) | Aspen Plus, MATLAB, AutoCAD |
-| 02 | [Process Simulation & Optimisation](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv) | Aspen Plus |
-| 03 | [Bioreactor Lab-Scale (IIT Madras)](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv) | Bioprocess, 1–100 L scale |
-| 04 | PID Tuning — CSTR | MATLAB, Simulink |
-| 05 | CFD Mixing Tank | STAR-CCM+ |
-| 06 | Process Dashboard | Power BI, SPC, DAX |
-| 07 | Fed-Batch Bioreactor Model | Python, SciPy |
-| 08 | Raspberry Pi SCADA Monitor | Python, Modbus, Flask |
+| 01 | **CFD Analysis of Counter-Current Heat Exchanger** (CHT, structured mesh, <1.5% deviation)       | STAR-CCM+, CFD, Turbulence Modeling |
+| 02 | **Ammonia Synthesis Simulation & MATLAB Modeling** (Equilibrium + PFR + multi-bed converter)     | MATLAB, DWSIM                       |
+| 03 | **Cost & Time Estimation & Project Management** (CBS, WBS, CPM, PERT, Monte Carlo, EVM)          | CPM, PERT, Risk Analysis            |
+| 04 | **Cost Engineering: Hydrogen via Ammonia Cracking** (CAPEX/OPEX, LCOH analysis)                  | Excel, Cost Engineering             |
+| 05 | **Lactic Acid Recovery & Purification – Process Design** (PFD, P&ID, control loops, pump sizing) | PFD, P&ID, Process Control          |
+| 06 | **Cellulose Extraction & HPMC Conversion (IIT Madras)** (Process simulation & optimization)      | Aspen Plus, Bioprocess              |
+| 07 | **Modelling of Chemical Process & Control Systems** (Numerical methods, ODEs, CRE problems, optimization)           | Python, MATLAB                      |
+| 08 | **H₂O₂ Batch Reactor Design** (Kinetics, Excel modeling, batch simulation)                       | Python, MATLAB, Excel, Reaction Engineering         |
+| 09 | **Digital Plant Design** (Arduino + Raspberry Pi automation, sensors, actuators, data logging)   | Arduino, Raspberry Pi               |
+| 10 | **Optical Sensor Color Detection System** (Green vs white glass shard detection)                 | Python, Sensors, DOEs               |
+
 
 📂 Full project portfolio: [Google Drive](https://drive.google.com/drive/folders/1wQgtyFnOFdwCRjUS2VDEEmQmNCWoVrhv?usp=sharing)
 
@@ -84,10 +87,6 @@ Highly analytical Process Engineer, currently specializing in Process Engineerin
 ### 🌐 Languages
 
 🇩🇪 Deutsch — B1 &nbsp;&nbsp; 🇬🇧 English — C1
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=00e5a0)
 
 ---
 
